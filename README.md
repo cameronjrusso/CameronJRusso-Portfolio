@@ -35,7 +35,7 @@ Below are categories where I’ll be showcasing my technical work. Each project 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]((https://www.linkedin.com/in/cameron-russo-a5634a200))  
+- [LinkedIn](https://www.linkedin.com/in/cameron-russo-a5634a200)  
 - [Email](mailto:camrusso94@gmail.com)  
 - Location: Gilbert, Arizona  
 
