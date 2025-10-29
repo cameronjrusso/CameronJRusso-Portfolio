@@ -17,8 +17,8 @@ Below are categories where I’ll be showcasing my technical work. Each project 
 | Category | Project | Description | Tools & Technologies |
 |-----------|----------|--------------|----------------------|
 | **Python Projects** | BankAccountSystem_Portfolio | | |
-| **C# Projects** | [C# Bank Account Management System](BankAccountSystem_Portfolio/)** – A console-based application demonstrating OOP concepts like inheritance, polymorphism, and interfaces through a realistic banking simulation. | | |
-| **Data Analytics** | [Python Real Estate Insights & Price Prediction](Python_Projects/RealEstateInsights_Portfolio/)** – A data analytics and machine learning project that analyzes housing market data to identify pricing trends and predict home values. | | |
+| **C# Projects** | [C# Bank Account Management System](BankAccountSystem_Portfolio) | A console-based application demonstrating OOP concepts like inheritance, polymorphism, and interfaces through a realistic banking simulation. | |
+| **Data Analytics** | [Python Real Estate Insights & Price Prediction](RealEstateInsights_Portfolio) | A data analytics and machine learning project that analyzes housing market data to identify pricing trends and predict home values. | | |
 | **Cloud Computing (AWS)** | *Coming Soon* | | |
 | **Dashboards & Visualization** | *Coming Soon* | | |
 
