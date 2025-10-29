@@ -16,7 +16,7 @@ Below are categories where I’ll be showcasing my technical work. Each project 
 
 | Category | Project | Description | Tools & Technologies |
 |-----------|----------|--------------|----------------------|
-| **Python Projects** | *Coming Soon* | | |
+| **Python Projects** | BankAccountSystem_Portfolio | | |
 | **C# Projects** | *Coming Soon* | | |
 | **Data Analytics** | *Coming Soon* | | |
 | **Cloud Computing (AWS)** | *Coming Soon* | | |
