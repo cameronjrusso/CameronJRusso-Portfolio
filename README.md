@@ -20,7 +20,7 @@ Below are categories where I’ll be showcasing my technical work. Each project 
 | **C# Projects** | [C# Bank Account Management System](BankAccountSystem_Portfolio) | A console-based application demonstrating OOP concepts like inheritance, polymorphism, and interfaces through a realistic banking simulation. | |
 | **Data Analytics** | *Coming Soon* | | |
 | **Cloud Computing (AWS)** | *Coming Soon* | | |
-| **Dashboards & Visualization** | *Coming Soon* | | |
+| **Dashboards & Visualization** | [Retail Sales Dashboard](Retail_Sales_Dashboard.pbix) | A data-driven Power BI dashboard showcasing retail sales insights through KPIs, trend analysis, and a profitability heatmap built with DAX and interactive filters. | |
 
 ---
 
