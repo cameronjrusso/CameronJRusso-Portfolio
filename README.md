@@ -18,7 +18,7 @@ Below are categories where I’ll be showcasing my technical work. Each project 
 |-----------|----------|--------------|----------------------|
 | **Python Projects** | [Python Real Estate Insights & Price Prediction](RealEstateInsights_Portfolio) | A data analytics and machine learning project that analyzes housing market data to identify pricing trends and predict home values. | | |
 | **C# Projects** | [C# Bank Account Management System](BankAccountSystem_Portfolio) | A console-based application demonstrating OOP concepts like inheritance, polymorphism, and interfaces through a realistic banking simulation. | |
-| **Data Analytics** | [BudgetMaster Analytics[(BudgetMaster Analytics) |A data-driven Excel workbook that uses advanced formulas, PivotTables, and VBA automation to analyze a yearly budget, visualize key financial metrics, and streamline expense tracking for smarter financial decisions. | |
+| **Data Analytics** | [BudgetMaster Analytics](BudgetMaster Analytics.xlsm) |A data-driven Excel workbook that uses advanced formulas, PivotTables, and VBA automation to analyze a yearly budget, visualize key financial metrics, and streamline expense tracking for smarter financial decisions. | |
 | **Cloud Computing (AWS)** | *Coming Soon* | | |
 | **Dashboards & Visualization** | [Retail Sales Dashboard](Retail_Sales_Dashboard.pbix) | A data-driven Power BI dashboard showcasing retail sales insights through KPIs, trend analysis, and a profitability heatmap built with DAX and interactive filters. | |
 
