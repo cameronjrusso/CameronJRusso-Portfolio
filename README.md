@@ -16,11 +16,11 @@ Below are categories where I’ll be showcasing my technical work. Each project 
 
 | Category | Project | Description | Tools & Technologies |
 |-----------|----------|--------------|----------------------|
-| **Python Projects** | [Python Real Estate Insights & Price Prediction](RealEstateInsights_Portfolio) | A data analytics and machine learning project that analyzes housing market data to identify pricing trends and predict home values. | | |
-| **C# Projects** | [C# Bank Account Management System](BankAccountSystem_Portfolio) | A console-based application demonstrating OOP concepts like inheritance, polymorphism, and interfaces through a realistic banking simulation. | |
-| **Data Analytics** | [BudgetMaster Analytics](BudgetMaster%20Analytics.xlsm)|A data-driven Excel workbook that uses advanced formulas, PivotTables, and VBA automation to analyze a yearly budget, visualize key financial metrics, and streamline expense tracking for smarter financial decisions. | |
-| **Cloud Computing (AWS)** | *Coming Soon* | | |
-| **Dashboards & Visualization** | [Retail Sales Dashboard](Retail_Sales_Dashboard.pbix) | A data-driven Power BI dashboard showcasing retail sales insights through KPIs, trend analysis, and a profitability heatmap built with DAX and interactive filters. | |
+| **Python Projects** | [Python Real Estate Insights & Price Prediction](RealEstateInsights_Portfolio) | A data analytics and machine learning project that analyzes housing market data to identify pricing trends and predict home values. | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | |
+| **C# Projects** | [C# Bank Account Management System](BankAccountSystem_Portfolio) | A console-based application demonstrating OOP concepts like inheritance, polymorphism, and interfaces through a realistic banking simulation. | C#, .NET Framework, Object-Oriented Programming (OOP), Visual Studio |
+| **Data Analytics** | [BudgetMaster Analytics](BudgetMaster%20Analytics.xlsm)|A data-driven Excel workbook that uses advanced formulas, PivotTables, and VBA automation to analyze a yearly budget, visualize key financial metrics, and streamline expense tracking for smarter financial decisions. | Microsoft Excel, VBA Macros, PivotTables, Conditional Formatting, Data Visualization |
+| **Cloud Computing (AWS)** | *Coming Soon* | A highly available web application hosted on AWS using EC2 Auto Scaling, an Application Load Balancer, and S3-backed assets with infrastructure automated via Terraform. |AWS EC2, S3, IAM, Auto Scaling, Load Balancer (ALB), Terraform, Nginx |
+| **Dashboards & Visualization** | [Retail Sales Dashboard](Retail_Sales_Dashboard.pbix) | A data-driven Power BI dashboard showcasing retail sales insights through KPIs, trend analysis, and a profitability heatmap built with DAX and interactive filters. | Power BI, DAX, Data Modeling, Data Visualization, KPI Design |
 
 ---
 
